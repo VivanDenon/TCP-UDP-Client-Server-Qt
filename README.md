@@ -1,4 +1,4 @@
-# TCP-Client-Server-Qt
+# TCP-UDP-Client-Server-Qt
 Simple fileserver/client based on TCP/UDP
 
 Target platform: Windows 7 or lastest, Linux
